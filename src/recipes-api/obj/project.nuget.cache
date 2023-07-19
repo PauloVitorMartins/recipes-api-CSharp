@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "qQ4C0PqatCKtx0qRf4utO1cY1YzBCGw3uNwFiDV48XIHWvGZO2nCedrsMtSh3wiVw5FyxnkfrqT+UzNjtH7B+A==",
+  "success": true,
+  "projectFilePath": "/home/paulo/Documentos/ExerciciosCS/secao-03/csharp-026-csharp-projeto-api-de-receitas/src/recipes-api/recipes-api.csproj",
+  "expectedPackageFiles": [
+    "/home/paulo/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/paulo/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/paulo/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/paulo/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/paulo/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/paulo/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "/home/paulo/.nuget/packages/xunitxml.testlogger/3.0.70/xunitxml.testlogger.3.0.70.nupkg.sha512"
+  ],
+  "logs": []
+}
